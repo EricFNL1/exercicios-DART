@@ -1,5 +1,3 @@
-import 'dart:io';
-
 import 'dart:math';
 
 String gerarSenha(int tamanho, {bool incluirEspeciais = false}) {
